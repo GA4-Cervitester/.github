@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   
-  <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <img src="images/cervi_logo.png" alt="Logo" width="400" height="160">
   
 
   <h3 align="center">CerviTest</h3>
